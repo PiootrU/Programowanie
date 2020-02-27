@@ -80,8 +80,7 @@ def Wpisz():
                 turtle.left(90)
                 turtle.down()
             turtle.pendown()
-        else:
-            print("Wpisałeś nieparzystą liczbe, Spróbuj jeszcze raz")
+        
 
         turtle.mainloop()
 
